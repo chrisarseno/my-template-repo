@@ -1,14 +1,56 @@
-This software is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+This software is licensed under a dual-licensing model:
+
+1. **GNU Affero General Public License v3.0 (AGPL-3.0)**
+2. **Commercial License** granted directly by Christopher R. Arsenault
 
 Copyright (C) 2025 Christopher R. Arsenault
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU
-Affero General Public License as published by the Free Software Foundation, either version 3 of
-the License, or (at your option) any later version.
+## Open Source License (AGPL-3.0)
+This program is free software: you can redistribute it and/or modify it under the terms of the
+GNU Affero General Public License as published by the Free Software Foundation, either version 3
+of the License, or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
 even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
 Affero General Public License for more details.
 
-You should have received a copy of the GNU Affero General Public License along with this program.
+A copy of the AGPL-3.0 license is provided in:
+`legal/licenses/AGPL-3.0.txt`
+
 If not, see <https://www.gnu.org/licenses/>.
+
+## Commercial License
+Commercial use of this software is **not permitted** under the AGPL-3.0 license.
+
+A separate **proprietary commercial license** is available for organizations wishing to:
+- use the software without AGPL obligations,
+- integrate it into proprietary systems,
+- host it as a service,
+- distribute closed-source applications incorporating this software.
+
+Commercial licensing requires:
+- explicit written approval by the Licensor,
+- a fully executed Commercial License Agreement,
+- payment of applicable license fees, and
+- issuance of a valid License ID / License Key.
+
+**Possession of the source code or binaries does not grant commercial rights.**
+
+The commercial license terms are available in:
+`legal/licenses/COMMERCIAL-LICENSE.txt`
+
+To obtain a commercial license, please contact:
+**chris@chrisarsenault.xyz**
+
+## Contributor Licensing Requirements
+All contributions to this project require signing the applicable Contributor License Agreement.
+
+Relevant documents:
+- Commercial Contributor Agreement (CCA):  
+  `legal/agreements/CCA.md`
+- Contributor Acknowledgement Form (individual):  
+  `legal/agreements/CONTRIBUTOR-ACKNOWLEDGEMENT.md`
+- Employer Contributor Agreement (corporate):  
+  `legal/agreements/EMPLOYER-CCA.md`
+
+No contributions may be merged unless all required signatures have been completed.
