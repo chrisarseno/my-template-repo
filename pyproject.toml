@@ -1,1 +1,25 @@
+[project]
+name = "your-project"
+version = "0.1.0"
+description = "Template repo with dual licensing, CLA, and license verification."
+authors = [
+  { name = "Chris Arsenault", email = "you@example.com" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+
+[project.urls]
+Homepage = "https://github.com/your-username/your-template-repo"
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff", "mypy"]
+server = ["fastapi", "uvicorn[standard]", "pydantic", "requests"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py310"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
 
