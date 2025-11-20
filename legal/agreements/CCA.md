@@ -1,5 +1,3 @@
-CCA.md
-
 Commercial Contributor Agreement (CCA)
 Version 1.0 — 2025
 Copyright © 2025 Christopher R. Arsenault
@@ -69,18 +67,16 @@ You grant the Maintainer and all recipients of the Project a perpetual, worldwid
 
 the Contribution and derivative works.
 
-This patent license covers all patent claims you own or control that would be infringed by your Contribution or its combination with the Project.
+    4.1 Patent Retaliation Clause
 
-4.1 Patent Retaliation Clause
+    If you or your employer initiate a patent infringement claim against:
 
-If you or your employer initiate a patent infringement claim against:
+      - the Maintainer,
+      - any user of the Project,
+      - or any other contributor
+      - related to the Project or the Contribution,
 
-  - the Maintainer,
-  - any user of the Project,
-  - or any other contributor
-  - related to the Project or the Contribution,
-
-then all licenses granted to you under this Agreement automatically terminate.
+    then all licenses granted to you under this Agreement automatically terminate.
 
 5. Moral Rights / Attribution Waiver
 
