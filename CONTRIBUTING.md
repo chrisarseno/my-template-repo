@@ -105,7 +105,7 @@ The CLA ensures:
         - Employer CCA signed
         - You are authorized to contribute employer-owned IP
 
-6. Licensing of Contributions
+7. Licensing of Contributions
 
   By contributing to this project:
     - You retain ownership of your contribution
