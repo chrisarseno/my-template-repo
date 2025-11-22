@@ -81,8 +81,9 @@ The CLA ensures:
       - Feature removals
 
 5. Workflow for Contributing
+
     Step 1: Fork the repository
-      git clone https://github.com/<your-username>/<repo>.git
+      git clone https://github.com/'<your-username>'/'<repo>'.git
 
     Step 2: Create a feature branch
       git checkout -b feature/my-new-feature
@@ -135,12 +136,14 @@ The CLA ensures:
 
 8. Where to Get Help or Ask Questions
 
-If you are unsure about:
-  - The contribution process
-  - Licensing requirements
-  - Employer obligations
-  - Technical design decisions
-  - Roadmap or priorities
+  If you are unsure about:
+    - The contribution process
+    - Licensing requirements
+    - Employer obligations
+    - Technical design decisions
+    - Roadmap or priorities
 
 Please open an issue on GitHub or start a discussion in the repo’s Discussions section.
+OR
+Email the maintainer at chris@1450enterprises.com
 
